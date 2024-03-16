@@ -1,0 +1,2 @@
+este projeto simula um pouco do que seria um jogo de ping pong, onde cada vez em que  um ponto
+é marcado, a velocidade de bolinha aumenta um pouco, dando nivel ao jogo entre o jogador real x computador.
